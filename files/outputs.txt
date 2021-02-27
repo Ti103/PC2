@@ -1,0 +1,31 @@
+Rugosidade relativa (Rd) ✓
+Diâmetro da tubulação externa (Dte) ✓
+Diâmetro Hidráulico (Dh) ✓
+Taxa de capacidade calorífica fluido quente (C,q) ✓
+Número de Prandtl do fluido quente (Pr,q) ✓
+Taxa de capacidade calorífica fluido frio (C,f) ✓ 
+Número de Prandtl do fluido frio (Pr,f) ✓
+Cminimo ✓
+Cmaximo ✓
+Razão (Cr) ✓
+qmax ✓
+Numero de Reynolds para o escoamento do fluido quente (ReDi) ✓
+Tipo de escoamento interno (fluido quente) ✓
+Fator de atrito (f,q) 
+Nusselt (NuDi) 
+coeficiente de transferência de calor por convecção do fluido quente (h,q) 
+Resistência térmica de conveccção do fluido quente (R,q) 
+Resistência térmica de condução (R,t) 
+Numero de Reynolds para o escoamento do fluido frio (ReDh) ✓
+Tipo de escoamento externo (fluido frio) ✓
+fator de atrito (f,f) 
+Nusselt (NuDh) 
+coeficiente de transferência de calor por convecção do fluido frio (h,f) 
+Resistência térmica de convecção do fluido frio (R,f) 
+Resistencia térmica total 
+produto UA 
+NTU 
+efetividade (e) 
+taxa de transferência de calor real (q) 
+Temperatura de saida do fluido quente (Tq,s) 
+Temperatura de saida do fluido frio (Tf,s) 
